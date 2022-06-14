@@ -1,1 +1,4 @@
-# Project-Figma-Medsite-fr11_1
+Сайт мед клиники по дизайну из Figma
+
+Адаптивный одновстраничный сайт на HTML5 с использованием CSS, весртка сделана на основе дизайна из Figma. 
+Ссылка: https://samdanova.github.io/Figma-Medsite/
